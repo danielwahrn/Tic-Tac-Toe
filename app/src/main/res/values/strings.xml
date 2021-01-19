@@ -7,4 +7,5 @@
     <string name="exit">Exit</string>
     <string name="aboutme">studying Computer Science &amp; Engineering at SKIT ,Jaipur</string>
     <string name="title_activity_afterstart">Tic Tac Toe</string>
+    <string name="appbar_scrolling_view_behavior" />
 </resources>
